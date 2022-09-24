@@ -90,18 +90,6 @@ export const USER_CONFIG = {
         {"keyword": "love_day", date: "2021-07-05"}
       ]
     },
-    {
-      name: "仙女小王",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      horoscopeDate: '',
-      horoscopeDateType: '',
-      openUrl: "https://wangxinleo.cn",
-      festivals: [],
-      customizedDateList: []
-    },
     // 你可以不断按格式往下增加
     // ...
   ],
